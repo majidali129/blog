@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A simple blog post to perform CRUD operations",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "dev": "nodemon src/index.js"
   },
